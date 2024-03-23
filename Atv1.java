@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class Atv1 {
-    public static void main(String[] args) {
+    public void ExecutarPrograma() {
         Scanner ler = new Scanner(System.in);
         int[] vetor = new int[5];
         double soma = 0;
